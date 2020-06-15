@@ -17,12 +17,13 @@ public class CT01 {
 	BuscaPage buscaPage;
 	CalculaCepPage calculaCepPage;
 	
-	// Acessar o site: https://wpforms.com/demo/
-	// No select “Viewing All Templates” selecionar “FeedBack”
-	// Clicar em “View Demo” do card “Neighborhood Events Questionnaire Form Demo”
-	// Preencher todos os campos (radio button e textbox) do formulário com qualquer valor.
-	// Enviar (Submit) o formulário
-	//Validar que foi o formulário foi enviado.
+	//Acessar o site: https://www.kabum.com.br/
+	//No input â€œbuscarâ€, pesquisar: Capa Targus Ipad Mini Rotating Versavu THZ668 Grafite
+	//Clicar em â€œBuscarâ€
+	//Clicar no Link do produto pesquisado
+	//No campo â€œDigite seu CEPâ€ preencher com o CEP: 38413-108
+	//Clicar em â€œCalcular Freteâ€
+	//Validar se os 4 valores de frete sÃ£o: "R$ 23,39", "R$ 40,97", "R$ 51,79"
 	
 	@Before
 	public void before() {
